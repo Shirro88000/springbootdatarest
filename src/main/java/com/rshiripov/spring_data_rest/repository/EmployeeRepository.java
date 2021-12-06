@@ -13,7 +13,4 @@ public interface EmployeeRepository extends JpaRepository<Employee, Integer> { /
 
 
     //public List<Employee> findAllByName(String name);
-
-    // test changes
-
 }
